@@ -6,7 +6,7 @@
 
 <p align="center">
   <code>user /arch + hyprland/  ·  /g/ reader</code><br>
-  ⚡ конфиги вместо резюме · I use arch, btw
+  I use arch, btw
 </p>
 
 ---
