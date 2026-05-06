@@ -1,7 +1,5 @@
-<img width="736" height="736" alt="изображение" src="https://github.com/user-attachments/assets/ed1b35c9-bc04-4525-9d74-10a3cc2d2ec0" /># wiznkingpro
-
 <p align="center">
-  <img src="https://i.pinimg.com/736x/17/f7/ea/17f7ea8598bd4c5b84831142bedc3d9f.jpg" width="100" style="border-radius: 50%;">
+  <img src="https://i.pinimg.com/736x/17/f7/ea/17f7ea8598bd4c5b84831142bedc3d9f.jpg" width="100">
 </p>
 
 <p align="center">
